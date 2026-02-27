@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jessica 👋
 
-<!--
-**jagalvan20/jagalvan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA Candidate in Data Analytics with a background in healthcare revenue cycle operations.
 
-Here are some ideas to get you started:
+## Current Focus
+- Data analytics & reporting
+- KPI dashboard development
+- Process improvement in healthcare operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- SQL (Foundational querying)
+- Power BI & Google Sheets dashboards
+- Excel (PivotTables, data tracking)
+- Data analysis & operational reporting
+
+## Projects
+- Healthcare Claims Trend Analysis
+- Operational KPI Dashboard (Supply Chain Focus)
+
+All portfolio data is simulated for demonstration purposes.
